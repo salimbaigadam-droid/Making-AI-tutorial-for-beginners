@@ -1,4 +1,4 @@
-# 🧪 Examples — AI Engine with Pybind11 & Cython
+# 🧪 Examples AI Engine with Pybind11 & Cython
 
 Each example is self-contained and runs **without needing to compile C++** first.
 The `pure_python_fallback.py` module automatically kicks in if the C++ extension
